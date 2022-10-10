@@ -58,7 +58,7 @@
     "ember-exam": "^8.0.0",
     "ember-fetch": "^8.1.1",
     "ember-intl": "github:ember-intl/ember-intl#1f6c801994f7",
-    "ember-cached-decorator-polyfill": "^0.1.4",
+    "ember-cached-decorator-polyfill": "^1.0.1",
     "ember-unique-id-helper-polyfill": "^1.2.0",
     "ember-load-initializers": "^2.1.2",
     "ember-page-title": "^7.0.0",

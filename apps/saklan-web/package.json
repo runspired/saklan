@@ -25,7 +25,7 @@
     "@ember/optional-features": "^2.0.0",
     "@ember/test-helpers": "^2.8.1",
     "@embroider/compat": "^1.6.0",
-    "@embroider/core": "^1.6.0",
+    "@embroider/core": "^2.0.2",
     "@embroider/webpack": "^1.6.0",
     "@ember-data/store": "^4.3.0",
     "@ember-data/model": "^4.3.0",
